@@ -10,7 +10,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MehraDevesh2022/WordTrackr.git
+   git clone https://github.com/MehraDevesh2022/Meme-Generator.git
    cd MEME-GENERATOR
  
     ```
